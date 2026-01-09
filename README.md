@@ -37,7 +37,7 @@ Usage instructions will be added as the implementation progresses.
 ### Planned Commands
 
 The following are examples of planned interactions:
-```
+```text
 "Hey Jarvis, what's the weather today?"
 "Jarvis, prepare the goon chair"
 "Show me my schedule"
