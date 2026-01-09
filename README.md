@@ -5,7 +5,7 @@ A personal AI assistant inspired by J.A.R.V.I.S. (Just A Rather Very Intelligent
 ## Features
 
 - 🗣️ **Natural Language Processing**: Responds to informal and conversational language
-- 🪑 **Smart Automation**: Can prepare the "goon chair" and other automated tasks
+- 🪑 **Smart Automation**: Can perform automated tasks including preparing the "goon chair" (a gaming/work setup automation)
 - 🤖 **Interactive AI**: Engages with users in a friendly, Jarvis-like manner
 - 🎯 **Task Management**: Helps manage and execute various tasks
 
@@ -24,10 +24,10 @@ git clone https://github.com/kyanite-web/Jarvis-Iron-man-.git
 cd Jarvis-Iron-man-
 ```
 
-2. Install dependencies (once available):
+2. Install dependencies:
 ```bash
-# Dependencies will be specified as the project develops
-# pip install -r requirements.txt
+# Note: Dependency requirements will be added as the project develops
+# When available, installation will be: pip install -r requirements.txt
 ```
 
 ## Usage
