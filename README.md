@@ -12,8 +12,9 @@ A personal AI assistant inspired by J.A.R.V.I.S. (Just A Rather Very Intelligent
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Python 3.7 or higher (if applicable)
-- Required dependencies (see Installation)
+- Python 3.7 or higher
+- pip (Python package manager)
+- Git
 
 ## Installation
 
@@ -23,23 +24,20 @@ git clone https://github.com/kyanite-web/Jarvis-Iron-man-.git
 cd Jarvis-Iron-man-
 ```
 
-2. Install dependencies:
+2. Install dependencies (once available):
 ```bash
-# Add installation commands when dependencies are specified
-pip install -r requirements.txt  # if using Python
+# Dependencies will be specified as the project develops
+# pip install -r requirements.txt
 ```
 
 ## Usage
 
-```bash
-# Add usage instructions once implementation is complete
-python jarvis.py  # Example command
-```
+Usage instructions will be added as the implementation progresses.
 
-### Example Commands
+### Planned Commands
 
+The following are examples of planned interactions:
 ```
-# Examples will be added as features are implemented
 "Hey Jarvis, what's the weather today?"
 "Jarvis, prepare the goon chair"
 "Show me my schedule"
