@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging/build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+*.spec
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
